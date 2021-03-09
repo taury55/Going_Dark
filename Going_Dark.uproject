@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "AdvancedSteamSessions",
+			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSessions",
+			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
 	]
