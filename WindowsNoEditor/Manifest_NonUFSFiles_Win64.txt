@@ -1,4 +1,4 @@
-Going_Dark/Binaries/Win64/Going_Dark.exe	2021-03-09T16:29:08.526Z
+Going_Dark/Binaries/Win64/Going_Dark.exe	2021-03-09T19:12:21.035Z
 Going_Dark/Binaries/Win64/turbojpeg.dll	2021-03-09T11:18:30.056Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-03-09T11:05:48.849Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-03-09T10:59:35.881Z
@@ -20,4 +20,4 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-03-09T10:59:36.130Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2021-03-09T11:00:29.103Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-03-09T11:00:30.204Z
-Going_Dark.exe	2021-03-09T16:34:50.797Z
+Going_Dark.exe	2021-03-09T19:12:35.005Z
