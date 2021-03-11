@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Log files
 *.log
+CrashReportClient.ini
